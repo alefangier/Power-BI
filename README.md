@@ -1,8 +1,10 @@
-# Power BI Desktop
+<h1>Power BI Desktop</h1>
 
-Este é o meu repositório sobre *Formação Power BI* da plataforma da Alura
+> This is my repository about *Power BI Formation* in Alura's platform.
 
-## Cursos:
+> Status: *Developing*
+ 
+<h2>Courses:</h2>
 
 * ***Power BI Desktop:*** construindo meu primeiro Dashboard
 * ***Dashboard com Power BI:*** visualizando dados
@@ -10,3 +12,4 @@ Este é o meu repositório sobre *Formação Power BI* da plataforma da Alura
 * ***Power BI:*** entendendo as fórmulas DAX
 * ***Power BI:*** explorando recursos visuais
 
+* ***Business Intelligence:*** trabalhando com Data Warehouse
