@@ -2,7 +2,7 @@
 
 > This is my repository about *Power BI Formation* in Alura's platform.
 
-> Status: *Developing*
+> Status: *Developing* ⚠️
  
 <h2>Courses:</h2>
 
